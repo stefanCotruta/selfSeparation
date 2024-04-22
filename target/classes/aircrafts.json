@@ -1,0 +1,110 @@
+[
+  {
+    "name" : "airplane1",
+    "position" :
+      {
+        "x" : -3000,
+        "y" : 40,
+        "z" : 800
+      },
+    "category" : "C",
+    "fuelPercentage" : 0.18,
+    "speed" : 180
+  },
+  {
+    "name" : "airplane2",
+    "position" :
+      {
+        "x" : -10000,
+        "y" : 2000,
+        "z" : 3500
+      },
+    "category" : "D",
+    "fuelPercentage" : 0.32,
+    "speed" : 230
+  },
+  {
+    "name" : "airplane3",
+    "position" :
+      {
+        "x" : -4000,
+        "y" : 1000,
+        "z" : 800
+      },
+    "category" : "C",
+    "fuelPercentage" : 0.21,
+    "speed" : 200
+  },
+  {
+    "name" : "airplane4",
+    "position" :
+      {
+        "x" : 14000,
+        "y" : -3000,
+        "z" : 3200
+      },
+    "category" : "A",
+    "fuelPercentage" : 0.38,
+    "speed" : 250
+  },
+  {
+    "name" : "airplane5",
+    "position" :
+      {
+        "x" : 25000,
+        "y" : 6000,
+        "z" : 5600
+      },
+    "category" : "F",
+    "fuelPercentage" : 0.46,
+    "speed" : 320
+  },
+  {
+    "name" : "airplane6",
+    "position" :
+      {
+        "x" : -400,
+        "y" : 0,
+        "z" : 250
+      },
+    "category" : "D",
+    "fuelPercentage" : 0.12,
+    "speed" : 140
+  },
+  {
+    "name" : "airplane7",
+    "position" :
+      {
+        "x" : -10000,
+        "y" : 0,
+        "z" : 4500
+      },
+    "category" : "B",
+    "fuelPercentage" : 0.3,
+    "speed" : 190
+  },
+  {
+    "name" : "airplane8",
+    "position" :
+      {
+        "x" : -30000,
+        "y" : -7000,
+        "z" : 10000
+      },
+    "category" : "E",
+    "fuelPercentage" : 0.63,
+    "speed" : 340
+  },
+  {
+    "name" : "airplane9",
+    "position" :
+      {
+        "x" : -5000,
+        "y" : 0,
+        "z" : 2000
+      },
+    "category" : "C",
+    "fuelPercentage" : 0.2,
+    "speed" : 200
+  }
+]
